@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-1 1 1 1 1 "Update with Tortoise…"
-=======
-1 1 1 1 1 "Updating with Bash…"
->>>>>>> f87f5efe529530c2c685f337ee7e12757d990ead
+"Update with Tortoise…"
+1"Updating with Bash…"
