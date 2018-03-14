@@ -1,2 +1,2 @@
-                                                                
+                                                       
  # Tech-Fundamentals
