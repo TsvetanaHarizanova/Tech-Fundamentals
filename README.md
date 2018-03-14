@@ -1,4 +1,4 @@
-#### Problem 4.               
+### Problem 4.               
 Beverage Labels
 
 Write a program, which reads a food product
